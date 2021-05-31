@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550218898986",
+    "project_id": "diet-tracker-b6fde",
+    "storage_bucket": "diet-tracker-b6fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550218898986:android:c374e1c302a51a8629ed53",
+        "android_client_info": {
+          "package_name": "com.diettracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550218898986-e76inlqh1mq68mhi0ajaf8tca4a4to6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrT3Jzgeho22NUuQjCdKK5eslbe6bGYOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550218898986-e76inlqh1mq68mhi0ajaf8tca4a4to6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
